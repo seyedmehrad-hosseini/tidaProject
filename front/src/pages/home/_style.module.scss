@@ -1,0 +1,27 @@
+.productListBox{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+
+    .box{
+        width: 70%;
+        margin: 2%;
+
+        background-color: white;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+
+    }
+}
+.box{
+    .diagram{
+        width: 70%;
+    }
+    .selectData{
+        width: 70%;
+    }
+}

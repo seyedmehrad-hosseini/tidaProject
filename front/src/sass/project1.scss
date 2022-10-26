@@ -1,0 +1,13 @@
+@import "./reset";
+body{
+    height: 100vh;
+    background-color: #ebe6e6;
+    font-family: monospace;
+}
+*{
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
